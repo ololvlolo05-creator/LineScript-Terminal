@@ -1,0 +1,2 @@
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\publish\LineScriptTerminal.pdb
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\publish\LineScriptTerminal.exe

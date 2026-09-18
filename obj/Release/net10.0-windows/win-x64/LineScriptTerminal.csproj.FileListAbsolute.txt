@@ -1,0 +1,14 @@
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\LineScriptTerminal.exe
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\LineScriptTerminal.deps.json
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\LineScriptTerminal.runtimeconfig.json
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\LineScriptTerminal.dll
+E:\LineScript-Terminal\bin\Release\net10.0-windows\win-x64\LineScriptTerminal.pdb
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.GeneratedMSBuildEditorConfig.editorconfig
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.AssemblyInfoInputs.cache
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.AssemblyInfo.cs
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.csproj.CoreCompileInputs.cache
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.dll
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\refint\LineScriptTerminal.dll
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.pdb
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\LineScriptTerminal.genruntimeconfig.cache
+E:\LineScript-Terminal\obj\Release\net10.0-windows\win-x64\ref\LineScriptTerminal.dll
